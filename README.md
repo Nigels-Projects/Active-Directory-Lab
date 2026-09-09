@@ -1,6 +1,5 @@
 # Active-Directory-Lab
-A hands-on cybersecurity project demonstrating end-to-end Active Directory deployment, Sysmon telemetry configuration, Splunk SIEM log ingestion, and MITRE ATT&amp;CK-mapped threat emulation
-
+A hands-on cybersecurity project demonstrating end-to-end Active Directory deployment, Sysmon telemetry configuration, Splunk SIEM log ingestion.
 Skills Learned
  - Active Directory Domain Services (AD DS): Configuring a Windows Server Domain Controller, managing domain architecture, establishing organizational units (OUs), and structuring enterprise user/group accounts.
 
@@ -26,3 +25,18 @@ Skills Learned
   <img src="diagram.png" alt="Enterprise AD Lab Architecture" width="700">
 </p>
 A Screenshot showing the Diagram of the projects architecture including the target machine, server and attacking machine respectively.
+
+<p align="center">
+  <img src="VMnet.png" alt="Connected Virtual Network" width="700">
+</p>
+A Screenshot showing the NAT Type Network I made for connecting to Splunk Servers
+
+<p align="center">
+  <img src="GM.png" alt="Creation of GPOs and AD Users" width="700">
+</p>
+Creation of AD User Gmorgen
+
+<p align="center">
+  <img src="finally.png" alt="Brute Force of Gmorgen Using Crowbar" width="700">
+</p>
+Successful brute force attack using Crowbar and Kali Linux
