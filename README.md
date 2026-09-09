@@ -23,6 +23,6 @@ Skills Learned
 </div>
 
 <p align="center">
-  <img src="images/architecture-diagram.png" alt="Enterprise AD Lab Architecture" width="700">
+  <img src="diagram.png" alt="Enterprise AD Lab Architecture" width="700">
 </p>
 A Screenshot showing the Diagram of the projects architecture including the target machine, server and attacking machine respectively.
