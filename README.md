@@ -22,8 +22,7 @@ Skills Learned
     <img src="https://img.shields.io/badge/-Sysmon-005571?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-Ref 1: Network Diagram
+<p align="center">
+  <img src="images/architecture-diagram.png" alt="Enterprise AD Lab Architecture" width="700">
+</p>
+A Screenshot showing the Diagram of the projects architecture including the target machine, server and attacking machine respectively.
