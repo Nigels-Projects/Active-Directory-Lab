@@ -44,8 +44,11 @@ Successful brute force attack using Crowbar and Kali Linux
 <p align="center">
   <img src="telemetry.png" alt="Connected Virtual Network" width="700">
 </p>
+Showing the Telemetry and event code (4624) of the recent bruteforce attack as a successful login
 
 <p align="center">
-  <img src="telemetry.png" alt="Connected Virtual Network" width="700">
+  <img src="newuser.png" alt="Connected Virtual Network" width="700">
 </p>
-Showing the Telemetry and event code (4624) of the recent bruteforce attack as a successful login
+Creation of a new user using Powershell and also Atomic Red Team
+
+
