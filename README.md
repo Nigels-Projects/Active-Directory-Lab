@@ -51,4 +51,7 @@ Showing the Telemetry and event code (4624) of the recent bruteforce attack as a
 </p>
 Creation of a new user using Powershell and also Atomic Red Team
 
-
+<p align="center">
+  <img src="ntele.png" alt="Connected Virtual Network" width="700">
+</p>
+Showing Telemetry of the newly created "NewLocalUser" in Splunk/
