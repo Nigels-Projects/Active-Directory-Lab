@@ -40,3 +40,12 @@ Creation of AD User Gmorgen
   <img src="finally.png" alt="Brute Force of Gmorgen Using Crowbar" width="700">
 </p>
 Successful brute force attack using Crowbar and Kali Linux
+
+<p align="center">
+  <img src="telemetry.png" alt="Connected Virtual Network" width="700">
+</p>
+
+<p align="center">
+  <img src="telemetry.png" alt="Connected Virtual Network" width="700">
+</p>
+Showing the Telemetry and event code (4624) of the recent bruteforce attack as a successful login
